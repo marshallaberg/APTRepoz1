@@ -1,0 +1,12 @@
+DropOff 
+
+
+<connectionStrings>
+  <add name="aptconn" 
+   connectionString="Server=70.32.28.3;Integrated Security=SSPI;Database=aptraveldb;"
+   providerName="System.Data.SqlClient" />
+</connectionStrings>
+
+user = aptdbuserq
+pass = !QAZ2wsx!
+
