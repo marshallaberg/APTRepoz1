@@ -1,0 +1,11 @@
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\APTravel.DATA.dll.config
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\APTravel.DATA.dll
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\APTravel.DATA.pdb
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\EntityFramework.dll
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\EntityFramework.xml
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\obj\Debug\APTravel.DATA.csprojResolveAssemblyReference.cache
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\obj\Debug\APTravel.DATA.csproj.CoreCompileInputs.cache
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\obj\Debug\APTravel.DATA.dll
+C:\Users\MCKUser.NPRS\Desktop\Workspace\APTravel01\APTravel\APTravel.Test\APTravel.DATA\obj\Debug\APTravel.DATA.pdb

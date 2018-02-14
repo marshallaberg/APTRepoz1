@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4c5917609dd64090af70a6931e9b962d" Name="Diagram1" >
+        <EntityTypeShape EntityType="aptraveldbModel.aptHubSpotUser" Width="2.125" PointX="6.5" PointY="1" />
+        <EntityTypeShape EntityType="aptraveldbModel.C__MigrationHistory" Width="2.125" PointX="6.5" PointY="4" />
+        <EntityTypeShape EntityType="aptraveldbModel.AspNetRole" Width="2.125" PointX="3.5" PointY="0.625" />
+        <EntityTypeShape EntityType="aptraveldbModel.AspNetUserClaim" Width="2.125" PointX="3.5" PointY="4.625" />
+        <EntityTypeShape EntityType="aptraveldbModel.AspNetUserLogin" Width="2.125" PointX="3.5" PointY="2.5" />
+        <EntityTypeShape EntityType="aptraveldbModel.AspNetUser" Width="2.125" PointX="0.5" PointY="0.625" />
+        <AssociationConnector Association="aptraveldbModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="aptraveldbModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" />
+        <AssociationConnector Association="aptraveldbModel.AspNetUserRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

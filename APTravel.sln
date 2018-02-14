@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APTravel.UI", "APTravel\APTravel.UI.csproj", "{92BAA69F-B69F-4DC2-9E95-048DD3C73836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APTravel", "APTravel.csproj", "{92BAA69F-B69F-4DC2-9E95-048DD3C73836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APTravel", "APTravel.Test\APTravel.csproj", "{46D42394-EA59-459B-80A5-8334C91CF5E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APTravel.DATA", "APTravel.DATA\APTravel.DATA.csproj", "{E22234CA-6E3B-4B37-820B-FA3BFFF4CA14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,15 +17,12 @@ Global
 		{92BAA69F-B69F-4DC2-9E95-048DD3C73836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92BAA69F-B69F-4DC2-9E95-048DD3C73836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92BAA69F-B69F-4DC2-9E95-048DD3C73836}.Release|Any CPU.Build.0 = Release|Any CPU
-		{46D42394-EA59-459B-80A5-8334C91CF5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46D42394-EA59-459B-80A5-8334C91CF5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46D42394-EA59-459B-80A5-8334C91CF5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46D42394-EA59-459B-80A5-8334C91CF5E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22234CA-6E3B-4B37-820B-FA3BFFF4CA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22234CA-6E3B-4B37-820B-FA3BFFF4CA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22234CA-6E3B-4B37-820B-FA3BFFF4CA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22234CA-6E3B-4B37-820B-FA3BFFF4CA14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6AB43E53-9C14-4421-B9AF-6C8181AE810F}
 	EndGlobalSection
 EndGlobal

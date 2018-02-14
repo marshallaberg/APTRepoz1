@@ -1,0 +1,36 @@
+﻿@model IdentitySample.Models.RegisterViewModel
+@{
+                /**/
+
+                /**/
+
+                ViewBag.Title = "Welcome to Alt";
+}
+
+<br /><br /><br />
+@ViewBag.Title.
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <h4>Create a new account.</h4>
+        <hr />
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+
+
+    }
+
+    <style>
+        body {
+            background-color: #111;
+            background-image: url(/content/Images/CollageFinal.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: calc(20% + 1000px);
+        }
+    </style>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
